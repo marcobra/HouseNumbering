@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'HouseNumbering_update_selected_form.ui'
 #
-# Created: Mon Apr 20 12:33:10 2015
+# Created: Mon Apr 20 12:43:00 2015
 #      by: PyQt4 UI code generator 4.10.4
 #
 # WARNING! All changes made in this file will be lost!
@@ -97,7 +97,7 @@ class Ui_HouseNumbering_update_selected_form(object):
         HouseNumbering_update_selected_form.setWindowTitle(_translate("HouseNumbering_update_selected_form", "HouseNumbering", None))
         self.label.setText(_translate("HouseNumbering_update_selected_form", "Set value for the data field:", None))
         self.label_2.setText(_translate("HouseNumbering_update_selected_form", "Start value: (example1 or 1a)", None))
-        self.label_3.setText(_translate("HouseNumbering_update_selected_form", "You can also activate this form with F9 funct key - by Marco Braida 2015", None))
+        self.label_3.setText(_translate("HouseNumbering_update_selected_form", "You can also activate this form with F10 funct key - by Marco Braida 2015", None))
         self.cBkeepLatestValue.setText(_translate("HouseNumbering_update_selected_form", "Remember latest inserted  value", None))
         self.cBkeepCharFixed.setText(_translate("HouseNumbering_update_selected_form", "based on start value keep letter part fixed and increase only numeric part", None))
         self.label_4.setText(_translate("HouseNumbering_update_selected_form", "+", None))
