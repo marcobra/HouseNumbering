@@ -109,7 +109,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>You can also activate this form with F10 funct key - by Marco Braida 2014</string>
+    <string>You can also activate this form with F9 funct key - by Marco Braida 2015</string>
    </property>
   </widget>
   <widget class="QCheckBox" name="cBkeepLatestValue">
