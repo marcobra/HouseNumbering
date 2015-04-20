@@ -23,7 +23,7 @@ tags=vector,attribute,database,update,edit,field,numbering,auto,increment
 ; be probably possible to create a project on redmine
 ; if they are not filled
 homepage=https://github.com/marcobra/HouseNumbering
-tracker=http://hub.qgis.org/projects/HouseNumbering
+tracker=https://github.com/marcobra/HouseNumbering/issues
 repository=https://github.com/marcobra/HouseNumbering
 icon=icons/housenumbering.png
 
