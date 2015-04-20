@@ -21,7 +21,7 @@ def description():
 	return "Edit and assign an increasing value for the input elements"
 
 def version():
-	return "0.0.2"
+	return "0.0.3"
 
 def qgisMinimumVersion():
 	return "2.0"

@@ -4,14 +4,15 @@ name=HouseNumbering
 qgisMinimumVersion=2.0
 qgisMaximumVersion=2.99
 description=HouseNumbering plugin is a quick and handy way to input increasing field value for selected elements in the current/active layer.
-version=version 0.0.2
+version=version 0.0.3
 category=Plugins
 author=Marco Braida
 email=marcobra.ubuntu@gmail.com
 ; end of mandatory metadata
 
 ; start of optional metadata 
-changelog= 2014/08/20 v. 0.0.2 - First commit on github.
+changelog= 2015/04/20 v. 0.0.3 - Some dialog text errors fixed.
+           2015/04/20 v. 0.0.2 - First commit on github.
            2015/04/19 v. 0.0.1 - Start of developing.
 
 
