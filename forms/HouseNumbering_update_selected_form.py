@@ -2,8 +2,8 @@
 
 # Form implementation generated from reading ui file 'HouseNumbering_update_selected_form.ui'
 #
-# Created: Sun Apr 19 22:34:32 2015
-#      by: PyQt4 UI code generator 4.11.3
+# Created: Mon Apr 20 12:15:28 2015
+#      by: PyQt4 UI code generator 4.10.4
 #
 # WARNING! All changes made in this file will be lost!
 
@@ -26,7 +26,14 @@ except AttributeError:
 class Ui_HouseNumbering_update_selected_form(object):
     def setupUi(self, HouseNumbering_update_selected_form):
         HouseNumbering_update_selected_form.setObjectName(_fromUtf8("HouseNumbering_update_selected_form"))
-        HouseNumbering_update_selected_form.resize(562, 224)
+        HouseNumbering_update_selected_form.resize(520, 235)
+        sizePolicy = QtGui.QSizePolicy(QtGui.QSizePolicy.Fixed, QtGui.QSizePolicy.Fixed)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(HouseNumbering_update_selected_form.sizePolicy().hasHeightForWidth())
+        HouseNumbering_update_selected_form.setSizePolicy(sizePolicy)
+        HouseNumbering_update_selected_form.setMinimumSize(QtCore.QSize(520, 235))
+        HouseNumbering_update_selected_form.setMaximumSize(QtCore.QSize(520, 235))
         self.buttonBox = QtGui.QDialogButtonBox(HouseNumbering_update_selected_form)
         self.buttonBox.setGeometry(QtCore.QRect(295, 155, 201, 32))
         self.buttonBox.setOrientation(QtCore.Qt.Horizontal)
@@ -43,7 +50,7 @@ class Ui_HouseNumbering_update_selected_form(object):
         self.label.setLayoutDirection(QtCore.Qt.LeftToRight)
         self.label.setObjectName(_fromUtf8("label"))
         self.label_2 = QtGui.QLabel(HouseNumbering_update_selected_form)
-        self.label_2.setGeometry(QtCore.QRect(10, 60, 206, 20))
+        self.label_2.setGeometry(QtCore.QRect(10, 60, 191, 20))
         self.label_2.setLayoutDirection(QtCore.Qt.RightToLeft)
         self.label_2.setObjectName(_fromUtf8("label_2"))
         self.label_3 = QtGui.QLabel(HouseNumbering_update_selected_form)
@@ -66,7 +73,12 @@ class Ui_HouseNumbering_update_selected_form(object):
         self.label_4.setLayoutDirection(QtCore.Qt.RightToLeft)
         self.label_4.setObjectName(_fromUtf8("label_4"))
         self.label_5 = QtGui.QLabel(HouseNumbering_update_selected_form)
-        self.label_5.setGeometry(QtCore.QRect(385, 60, 140, 20))
+        self.label_5.setGeometry(QtCore.QRect(380, 60, 120, 20))
+        sizePolicy = QtGui.QSizePolicy(QtGui.QSizePolicy.Fixed, QtGui.QSizePolicy.Fixed)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.label_5.sizePolicy().hasHeightForWidth())
+        self.label_5.setSizePolicy(sizePolicy)
         self.label_5.setLayoutDirection(QtCore.Qt.RightToLeft)
         self.label_5.setObjectName(_fromUtf8("label_5"))
         self.cBsetLabel = QtGui.QCheckBox(HouseNumbering_update_selected_form)
