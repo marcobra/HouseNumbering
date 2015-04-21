@@ -20,3 +20,5 @@ result will be: 1a,2a,3a or 1A,2A,3A<br>
 
 The selected elements are processed with same sequence as they were inserted.
 
+To get ordered increasing numbers on singles points, on geometrical position that differ from inserting sequence, select desired point press "F10" and then enter, the numbering rule will generate correct value for that point.
+
