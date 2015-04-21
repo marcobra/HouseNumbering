@@ -12,9 +12,11 @@ into the field selected from fields listbox, the destination field must be a cha
 If there is a letter in start value ( 1a or 2A ...) it keep fixed the numeric part and only the letter parts 
 will be increased: 1a,1b,1c... or 2A,2B,2C... 
 
-To keep letter fixed and to increase, by step amount, the number part:
+To keep letter fixed and to increase, by step amount, the number part only, set:<br>
+start value (1a or 2A ...)<br>
+step = 1<br>
+flag the checkbox option "based on... keep letter fixed..."<br>
+result will be: 1a,2a,3a or 1A,2A,3A<br>
 
-start value (1a or 2A ...)  step = 1 
-with checkbox option "keep letter fixed..." flagged
-result: 1a,2a,3a or 1A,2A,3A  
+The selected elements are processed with same sequence as they were inserted.
 
